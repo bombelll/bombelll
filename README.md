@@ -1,7 +1,7 @@
 <a href="https://github.com/bombelll">
-#    <img src="https://i.imgur.com/4JjWEk2.png" alt="logo"> Hi, I'm bombel!
+    <img src="https://i.imgur.com/4JjWEk2.png" alt="logo">
 </a>
-
+<h1>Hi, I'm bombel!</h1>
 
 - 🤓 I am currently learning **HTML/CSS/JS**
 
