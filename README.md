@@ -1,12 +1,8 @@
 <h1>Hi, I'm bombel!</h1>
 
-- 🎈 I want to be a **Fullstack Developer**
+- 🌐 I would like to create professional websites in the future.
 
-- 🌱 I’m currently learning: **Express** and **MongoDB**
-
-- 👨‍💻 All of my projects are available at [my website](https://pacio.dev#work)
-
-- 📫 How to reach me: **kontakt@pacio.dev**
+- 🤓 I am currently learning **HTML/CSS/JS**
 
 <!--
 **bombelll/bombelll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
