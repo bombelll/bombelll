@@ -4,6 +4,7 @@
 <h1>Hi, I'm bombel!</h1>
 
 - 🤓 I am currently learning **HTML/CSS/JS**
+
 - 🌐 I would like to create professional websites in the future.
 
 <h2>Documentations</h2>
