@@ -1,6 +1,6 @@
-<div class="main" style="display: flex">
+<div class="main">
     <div class="logo">
-        <img src="https://imgur.com/a/CAQerAD" alt="Logo" style="height: 40px; border-radius: 50%">
+        <img src="https://i.imgur.com/2YDcE0z.jpeg" alt="Logo" style="height: 40px; border-radius: 50%">
     </div>
     <div class="container">
         <h1>Hi, I'm bombel!</h1>
