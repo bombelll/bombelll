@@ -1,4 +1,11 @@
-<img src="https://imgur.com/a/CAQerAD" alt="Logo" style="height:40px; border-radius:50%;"> <h1>Hi, I'm bombel!</h1>
+<div class="main" style="display: flex">
+    <div class="logo">
+        <img src="https://imgur.com/a/CAQerAD" alt="Logo" style="height: 40px; border-radius: 50%">
+    </div>
+    <div class="container">
+        <h1>Hi, I'm bombel!</h1>
+    </div>
+</div>
 
 - 🌐 I would like to create professional websites in the future.
 
