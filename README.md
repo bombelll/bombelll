@@ -1,5 +1,4 @@
-<h1>Hi, I'm bombel!</h1>
-<img src="https://imgur.com/gallery/DdkZFeS" alt="Logo">
+<img src="https://i.imgur.com/4JjWEk2.png" alt="Logo"><h1>Hi, I'm bombel!</h1>
 
 - 🌐 I would like to create professional websites in the future.
 
