@@ -20,5 +20,5 @@
 
 <h2>Contact:</h2>
 <a href="https://discord.com/users/428618348205703179">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Discord_icon.svg" alt="discord" style="height:40px">
+    <img src="https://static.miraheze.org/freshwebsiteswiki/thumb/a/af/Discord_Logo.png/330px-Discord_Logo.png" alt="discord" style="height:40px">
 </a>
