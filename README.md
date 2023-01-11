@@ -29,5 +29,7 @@ src="https://img.shields.io/github/followers/bombelll?logo=github&style=for-the-
 <details>
     <summary>📈 Activity Graph</summary>
     <img src="https://github-readme-activity-graph.cyclic.app/graph?username=bombelll&theme=github-compact"/>
-    <a href="https://github.com/bombelll" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?                username=6vz&langs_count=10&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/bombelll">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?            username=bombelll&langs_count=10&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages"/></a>
+
 </details>
