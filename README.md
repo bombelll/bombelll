@@ -1,12 +1,12 @@
 <a href="https://github.com/bombelll">
     <img src="https://i.imgur.com/4JjWEk2.png" alt="logo">
 </a>
-<h1>Hi, I'm bombel!</h1> 
-- 👨‍💻 In the future, he wants to become a web developer
-- 📫 How to reach me
-  - [Discord](https://discord.com/users/428618348205703179/)
-  - lala
+<h1>Hi, I'm bombel!</h1>
 
+- 📫 How to reach me **contact@oreq.xyz**
+- 🧱 Things I'm working on
+  - [NFTboard.fun](https://nftboard.fun)
+  - [Hostyard.eu](https://hostyard.eu/)
 
 
 <b>Languages and programs</b>
