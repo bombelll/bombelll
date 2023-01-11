@@ -2,6 +2,9 @@
     <img src="https://i.imgur.com/4JjWEk2.png" alt="logo">
 </a>
 <h1>Hi, I'm bombel!</h1>
+    <a href="https://www.github.com/bombelll" target="_blank" rel="noreferrer">
+        <img src="https://img.shields.io/github/followers/bombelll?logo=github&style=for-the-badge&color=6366f1&labelColor=1c1917"/>
+    </a>
 
 - 👨‍💻 I want to become a web developer in the future
 - 📬 How to reach me
@@ -25,8 +28,5 @@
 
 <details>
     <summary>📈 Activity Graph</summary>  
-    <a href="https://www.github.com/bombelll" style="margin: 20px 0 20px 0;" target="_blank" rel="noreferrer">
-        <img src="https://img.shields.io/github/followers/bombelll?logo=github&style=for-the-badge&color=6366f1&labelColor=1c1917"/>
-    </a>
     <img src="https://github-readme-activity-graph.cyclic.app/graph?username=bombelll&theme=github-compact"/>
 </details>
