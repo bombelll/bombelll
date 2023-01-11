@@ -3,10 +3,6 @@
 </a>
 <h1>Hi, I'm bombel!</h1>
 
-- 🤓 I am currently learning **HTML/CSS/JS**
-
-- 🌐 I would like to create professional websites in the future.
-
 <h2>Documentations</h2>
 <a href="https://developer.mozilla.org/pl/docs/Web/HTML">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1024px-HTML5_logo_and_wordmark.svg.png" alt="html" style="height: 40px;">
