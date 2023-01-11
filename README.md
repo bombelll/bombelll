@@ -23,6 +23,9 @@
     <img src="https://img.shields.io/badge/-React-45b8d8?style=for-the-badge&logo=react&logoColor=white"></img>
 </p>
 
+<a href="https://www.github.com/bombelll" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/bombelll?logo=github&style=for-the-badge&color=6366f1&labelColor=1c1917" /></a>
+
 <details>
     <summary>📈 Activity Graph</summary>
     <img src="https://github-readme-activity-graph.cyclic.app/graph?username=bombelll&theme=github-compact"/>
