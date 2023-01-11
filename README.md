@@ -3,7 +3,7 @@
 </a>
 <h1>Hi, I'm bombel!</h1>
 
-- 📫 How to reach me **contact@oreq.xyz**
+- 👨‍💻 I want to become a web developer in the future
 - 🧱 Things I'm working on
   - [NFTboard.fun](https://nftboard.fun)
   - [Hostyard.eu](https://hostyard.eu/)
