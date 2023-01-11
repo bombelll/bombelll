@@ -5,8 +5,7 @@
 
 - 👨‍💻 I want to become a web developer in the future
 - 📬 How to reach me
-  - [Discord](https://nftboard.fun)
-  - [Hostyard.eu](https://hostyard.eu/)
+  - [Discord](https://discord.com/users/428618348205703179/)
 
 
 <b>Languages and programs</b>
