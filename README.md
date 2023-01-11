@@ -2,19 +2,13 @@
     <img src="https://i.imgur.com/4JjWEk2.png" alt="logo">
 </a>
 <h1>Hi, I'm bombel!</h1>
-
-<h2>Documentations</h2>
-<a href="https://developer.mozilla.org/pl/docs/Web/HTML">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1024px-HTML5_logo_and_wordmark.svg.png" alt="html" style="height: 40px;">
-</a>
-<a href="https://developer.mozilla.org/pl/docs/Web/CSS/Reference">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/800px-CSS3_logo_and_wordmark.svg.png" alt="css" style="height: 40px;">
-</a>
-<a href="https://developer.mozilla.org/pl/docs/Web/JavaScript/Reference">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" alt="javascript" style="height: 32px;">
-</a>
-
-<h2>Contact:</h2>
-<a href="https://discord.com/users/428618348205703179">
-    <img src="https://static.miraheze.org/freshwebsiteswiki/thumb/a/af/Discord_Logo.png/330px-Discord_Logo.png" alt="discord" style="height:40px">
-</a>
+- 👨‍💻 In the future, he wants to become a web developer
+- 📫 How to reach me:
+    - [Discord](https://discord.com/users/428618348205703179/)
+<b>Languages and programs</b>
+<p>
+    https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
+    https://img.shields.io/badge/-CSS3-2596be?style=for-the-badge&logo=css3&logoColor=white
+    https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E
+    https://img.shields.io/badge/-C++-00589d?style=for-the-badge&logo=cplusplus&logoColor=white
+</p>
