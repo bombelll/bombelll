@@ -5,6 +5,7 @@
 - 👨‍💻 In the future, he wants to become a web developer
 - 📫 How to reach me
   - [Discord](https://discord.com/users/428618348205703179/)
+  - lala
 
 
 
