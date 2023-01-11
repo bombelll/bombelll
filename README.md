@@ -18,12 +18,12 @@
 
 <b>Things to learn</b>
 <p>
+     <img src="https://img.shields.io/badge/-Sass-d0649c?style=for-the-badge&logo=sass&logoColor=white"></img>
     <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></img>
     <img src="https://img.shields.io/badge/-React-45b8d8?style=for-the-badge&logo=react&logoColor=white"></img>
-    <img src="https://img.shields.io/badge/-Sass-d0649c?style=for-the-badge&logo=sass&logoColor=white"></img>
 </p>
 
 <details>
     <summary>📈 Activity Graph</summary>
-    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=bombelll&theme=github-compact" />
+    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=bombelll&theme=github-compact"/>
 </details>
