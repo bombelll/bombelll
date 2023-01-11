@@ -4,7 +4,7 @@
 <h1>Hi, I'm bombel!</h1>
 
 - 👨‍💻 I want to become a web developer in the future
-- 🧱 Things I'm working on
+- 📬 How to reach me
   - [NFTboard.fun](https://nftboard.fun)
   - [Hostyard.eu](https://hostyard.eu/)
 
