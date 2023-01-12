@@ -16,7 +16,9 @@
     <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
     <img src="https://img.shields.io/badge/Webstorm-08ccdc?style=for-the-badge&logo=webstorm&logoColor=white" />
     <img src="https://img.shields.io/badge/Github_Desktop-682785?style=for-the-badge&logo=github&logoColor=white" />
-    <img src="https://img.shields.io/badge/-CODEPEN-08090A?style=for-the-badge&logo=codepen&logoColor=white" />
+    <a href="https://codepen.io/bombelll" target="_blank">
+        <img src="https://img.shields.io/badge/-CODEPEN-08090A?style=for-the-badge&logo=codepen&logoColor=white" />
+    </a>
 </p> 
 
 <b>Things to learn</b>
