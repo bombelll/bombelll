@@ -31,7 +31,4 @@
 <details>
     <summary>📈 Activity Graph</summary>  
     <img src="https://github-readme-activity-graph.cyclic.app/graph?username=bombelll&theme=github-compact" />
-    <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-        <img height=200 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?           username=bombelll&layout=compact&langs_count=10&hide_border=true&include_orgs=true&theme=dark&bg_color=000000#gh-light-mode-only" />
-    </a>
 </details>
