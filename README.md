@@ -29,6 +29,6 @@
 </p>
 
 <details>
-    <summary>📈 Activity Graph</summary>  
+    <summary>❓ Other Info</summary>  
     <img src="https://github-readme-activity-graph.cyclic.app/graph?username=bombelll&theme=github-compact" />
 </details>
