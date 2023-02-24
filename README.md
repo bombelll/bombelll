@@ -8,18 +8,22 @@
   - [Discord](https://discord.com/users/428618348205703179/)
 
 
-<b>Languages and programs</b>
+<b>Languages:</b>
 <p>
     <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
     <img src="https://img.shields.io/badge/-CSS3-2596be?style=for-the-badge&logo=css3&logoColor=white" />
     <img src="https://img.shields.io/badge/-C++-00589d?style=for-the-badge&logo=cplusplus&logoColor=white" />
+</p> 
+
+<b>Programs:</b>
+<p>
     <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
     <img src="https://img.shields.io/badge/Webstorm-08ccdc?style=for-the-badge&logo=webstorm&logoColor=white" />
     <img src="https://img.shields.io/badge/Github_Desktop-682785?style=for-the-badge&logo=github&logoColor=white" />
     <a href="https://codepen.io/bombelll">
         <img src="https://img.shields.io/badge/-CODEPEN-08090A?style=for-the-badge&logo=codepen&logoColor=white" />
     </a>
-</p> 
+</p>
 
 <b>Things to learn</b>
 <p>
