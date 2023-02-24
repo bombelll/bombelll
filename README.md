@@ -1,6 +1,8 @@
 <a href="https://www.github.com/bombelll" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/github/followers/bombelll?logo=github&style=for-the-badge&color=6366f1&labelColor=1c1917"/>
+    <img src="https://komarev.com/ghpvc/?username=bombelll&style=for-the-badge&color=6366f1" />
 </a>
+
 <h1>👋 Hi, I'm bombel!</h1>
 
 - 👨‍💻 I want to become a web developer in the future
