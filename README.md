@@ -29,6 +29,7 @@
 </p>
 
 <details>
-    <summary>❓ Other Info</summary>  
-    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=bombelll&theme=github-compact" />
+    <summary>❓ Other Info</summary style="display: flex; align-items:center; justify-content:center; text-align-center;">  
+    <img src="https://github-readme-stats.vercel.app/api?username=bombelll&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bombelll&layout=compact&theme=dark&hide_border=true" />
 </details>
