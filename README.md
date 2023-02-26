@@ -1,5 +1,5 @@
 <a href="https://www.github.com/bombelll" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/github/followers/bombelll?logo=github&style=for-the-badge&color=6366f1&labelColor=1c1917"/>
+    <img src="https://img.shields.io/github/followers/bombelll?logo=github&style=for-the-badge&color=6366f1&labelColor=555454"/>
     <img src="https://komarev.com/ghpvc/?username=bombelll&style=for-the-badge&color=6366f1" />
 </a>
 
