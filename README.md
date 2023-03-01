@@ -32,6 +32,7 @@
 <h3>🔧 Tools:</h3>
 <p>
     <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+    <img src="https://img.shields.io/badge/Vite-b243ff?style=for-the-badge&logo=vite&logoColor=ffc41c" />
     <img src="https://img.shields.io/badge/Webstorm-08ccdc?style=for-the-badge&logo=webstorm&logoColor=white" />
     <img src="https://img.shields.io/badge/Github_Desktop-682785?style=for-the-badge&logo=github&logoColor=white" />
     <a href="https://codepen.io/bombelll">
