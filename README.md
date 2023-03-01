@@ -15,8 +15,12 @@
     <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
     <img src="https://img.shields.io/badge/-CSS3-2596be?style=for-the-badge&logo=css3&logoColor=white" />
     <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-    <img src="https://img.shields.io/badge/-C++-00589d?style=for-the-badge&logo=cplusplus&logoColor=white" />
 </p> 
+
+<b>Basic knowledge:</b>
+<p>
+    <img src="https://img.shields.io/badge/-C++-00589d?style=for-the-badge&logo=cplusplus&logoColor=white" />
+</p>
 
 <b>Programs:</b>
 <p>
@@ -38,5 +42,5 @@
 <details>
     <summary>❓ Other Info</summary style="display: flex; align-items:center; justify-content:center; text-align-center;">  
     <img src="https://github-readme-stats.vercel.app/api?username=bombelll&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bombelll&layout=compact&theme=dark&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bombelll&layout=compact&theme=dark&hide_border=true" /> 
 </details>
