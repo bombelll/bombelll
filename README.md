@@ -20,6 +20,7 @@
 
 <h3>🌐 Basics Skills:</h3>
 <p>
+    <img src="https://img.shields.io/badge/-React-45b8d8?style=for-the-badge&logo=react&logoColor=white" />
     <img src="https://img.shields.io/badge/-C++-00589d?style=for-the-badge&logo=cplusplus&logoColor=white" />
 </p>
 
